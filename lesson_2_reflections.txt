@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializeing a repository creates a repository in the folder that you are in. This is done so you can track changes made to the file.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+

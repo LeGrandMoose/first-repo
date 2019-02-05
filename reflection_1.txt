@@ -1,0 +1,11 @@
+Viewing a difference between two versions of code helped me spot the difference because it required less work for me, as I didn't need to recall what the code should look like, I  could just check the older version.
+
+Having access to the entire history of a file helps you because you don't have to continuously have to remember your changes and/or what your code is meant to do, therefore making you more efficient and wasting lest time by allowing you to just check back on your previous saved files.
+
+There are many pros and cons to manually choosing when to commit. The pros being you have more control over your commits, and you know that each commit means something, and are substantial, while the cons being human error I.e forgetting to commit	.
+
+Git is more heavily associated with programming, so it makes sense for it to support multiple file commits.
+
+More comfortable to use, makes me confident with it
+
+ 
